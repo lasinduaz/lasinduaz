@@ -6,7 +6,7 @@
 
 <br>
 
-I'm a **Computer Science Undergraduate** with a passion for **DevOps, cloud infrastructure, and automation**. I'm focused on building resilient systems, streamlining development pipelines, and always learning new technologies.
+I'm a **Softare Engering Undergraduate** with a passion for **DevOps, cloud infrastructure, and automation**. I'm focused on building resilient systems, streamlining development pipelines, and always learning new technologies.
 
 * 🌱 I’m currently diving deep into **Rust** for systems programming and optimizing my **Bash** scripting.
 * ☁️ I'm exploring infrastructure and services on **Oracle Cloud (OCI)**.
