@@ -29,8 +29,9 @@
 
 ## 🧰 Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,rust,linux,docker,oracle" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=python,bash,rust,linux,docker,oracle" alt="skills"/>
 </p>
+
 
 ---
 
