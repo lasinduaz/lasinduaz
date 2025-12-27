@@ -1,52 +1,113 @@
-# 👋 Hey there, I'm Lasindu Anajana  
+<div align="center">
 
-### 🧑‍💻Software Engineering Undergraduate | Cloud & DevOps Enthusiast  
+```
+
+██████╗  ██╗      █████╗ ████████╗███╗   ██╗██╗   ██╗
+██╔══██╗███║     ██╔══██╗╚══██╔══╝████╗  ██║╚██╗ ██╔╝
+██████╔╝╚██║     ███████║   ██║   ██╔██╗ ██║ ╚████╔╝
+██╔═══╝  ██║     ██╔══██║   ██║   ██║╚██╗██║  ╚██╔╝
+██║      ██║     ██║  ██║   ██║   ██║ ╚████║   ██║
+╚═╝      ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝   ╚═╝
+
+> Lasindu Anajana
+> Cloud & DevOps Engineer • Python | Rust | Bash • Automation Enthusiast
+
+```
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lasinduaz&label=Visitors&color=0e75b6&style=flat" />
+</p>
+
+</div>
 
 ---
 
-## 💫 About Me  
-- 🚀 Currently diving deep into **Rust** and **Bash scripting**  
-- ☁️ Passionate about **Cloud Infrastructure** and **Automation**  
-- 💡 Always exploring how systems, code, and people connect  
-- 📫 Reach me at **lasinduaz@gmail.com**
+## 💡 Current Focus
+```
+
+> Automating workflows & system tasks
+> Building cloud-native infrastructure
+> Writing clean, maintainable scripts
+
+```
 
 ---
 
-## 🌐 Connect With Me  
+## 🛠️ Skills & Tools
+
+**Programming & Scripting:**  
 <p align="left">
-  <a href="www.linkedin.com/in/lasindusamarajeewa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=python,rust,bash" />
+</p>
+
+**DevOps & Cloud:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,oracle" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/lasindusamarajeewa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/lasindu.rpm/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/830400960697466950" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧰 Languages & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash,rust,linux,docker,oracle" alt="skills"/>
-</p>
-
-
----
-
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <div align="center">
-  
-  [![Lasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lasinduaz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+[![Lasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lasinduaz&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lasinduaz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
 
-## 🔥 Most Used Languages  
+## ⚡ Projects / Highlights
+```
+
+* Cloud Automation Scripts → CI/CD pipelines in Python & Bash
+* Containerized Deployments → Dockerized microservices
+* Rust CLI Tools → Small utilities to optimize workflows
+
+```
+
+---
+
+## 📜 Philosophy
+```
+
+"Make it work. Make it reliable. Then automate it."
+
+```
+
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasinduaz&layout=compact&theme=dracula" alt="Top Languages"/>
+
+> Terminal-inspired aesthetic • DevOps mindset • Skills that speak
+
 </div>
+```
+
+---
+
+### ✅ What’s new:
+
+1. **ASCII banner header** — immediately grabs attention and fits DevOps “terminal” theme.
+2. Maintains **terminal-style code blocks** for projects, focus, and philosophy.
+3. **Unified theme for stats** — consistent tokyonight style.
+4. Clean **visual hierarchy**: Hero → Focus → Skills → Stats → Projects → Philosophy.
+5. **Professional yet fun developer vibe**, ideal for recruiters, peers, and friends.
 
 ---
