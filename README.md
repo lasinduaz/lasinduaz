@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Lasindu Anajana  
 
-### 🧑‍💻Software Engineering Undergraduate | Cloud & DevOps Enthusiast  
+### Cloud & DevOps Enthusiast  
 
 ---
 
