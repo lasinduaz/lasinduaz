@@ -41,7 +41,7 @@
 
 ## Most Used Languages  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasinduaz&layout=compact&theme=dracula" alt="Top Languages"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lasinduaz&layout=compact&theme=dracula&langs_count=8&hide=html,css" alt="Top Languages" />
 </div>
 
 ---
