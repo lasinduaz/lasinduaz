@@ -36,11 +36,7 @@
 ---
 
 ## 📊 GitHub Stats  
-<div align="center">
  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lasinduaz&theme=github-dark)
-
-</div>
-
 ---
 
 ## 🔥 Most Used Languages  
