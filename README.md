@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats  
 <div align="center">
   
-  [![Lasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lasinduaz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasinduaz&layout=compact&theme=dracula&cache_seconds=86400" />
   
 </div>
 
