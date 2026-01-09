@@ -5,8 +5,8 @@
 ---
 
 ## About Me  
-- Currently diving deep into **Rust** and **Bash scripting**  
-- Passionate about **Cloud Infrastructure** and **Automation**  
+- Currently diving deep into **PYTHON** and **Bash scripting**  
+- Passionate about **Cloud Infrastructure and  Automation** and DevOps  
 - Always exploring how systems, code, and people connect  
 - Reach me at **lasinduaz@gmail.com**
 
