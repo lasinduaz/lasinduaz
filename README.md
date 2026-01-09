@@ -1,18 +1,18 @@
-# 👋 Hey there, I'm Lasindu Anajana  
+#Hey there, I'm Lasindu Anajana  
 
 ### Cloud & DevOps Enthusiast  
 
 ---
 
-## 💫 About Me  
-- 🚀 Currently diving deep into **Rust** and **Bash scripting**  
-- ☁️ Passionate about **Cloud Infrastructure** and **Automation**  
-- 💡 Always exploring how systems, code, and people connect  
-- 📫 Reach me at **lasinduaz@gmail.com**
+## About Me  
+- Currently diving deep into **Rust** and **Bash scripting**  
+- Passionate about **Cloud Infrastructure** and **Automation**  
+- Always exploring how systems, code, and people connect  
+- Reach me at **lasinduaz@gmail.com**
 
 ---
 
-## 🌐 Connect With Me  
+## Connect With Me  
 <p align="left">
   <a href="www.linkedin.com/in/lasindusamarajeewa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -39,7 +39,7 @@
  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lasinduaz&theme=github-dark)
 ---
 
-## 🔥 Most Used Languages  
+## Most Used Languages  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasinduaz&layout=compact&theme=dracula" alt="Top Languages"/>
 </div>
