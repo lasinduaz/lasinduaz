@@ -1,79 +1,29 @@
-<div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Lasindu%20Anajana&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Enthusiast&descAlignY=58&descSize=18&descColor=8B949E" width="100%"/> <img src="https://readme-typing-svg.demolab.com/?lines=Automating+infrastructure,+one+pipeline+at+a+time.;Exploring+Cloud,+DevOps+%26+Systems+Engineering.;Currently+leveling+up+in+Jenkins+%26+Kubernetes.&font=Fira%20Code&center=true&width=520&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" /> <img src="https://komarev.com/ghpvc/?username=lasinduaz&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views"/> </div> <br/>
 
-# Hi, I'm Lasindu Samarajeewa 👋
-### Cloud & DevOps Enthusiast | Building Systems That Scale
+## About Me
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Automating+infrastructure,+one+pipeline+at+a+time.;Exploring+Cloud,+DevOps+%26+Systems+Engineering.;Currently+leveling+up+in+Jenkins+%26+Kubernetes.&font=Fira%20Code&center=true&width=520&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
+> I'm a software engineering student with a growing focus on cloud infrastructure, automation, and DevOps practices. I enjoy understanding how systems, pipelines, and people come together to ship reliable software, and I'm always working toward mastering the next tool in that stack.
 
-</div>
+- Currently deepening my skills in **Jenkins**, **Kubernetes**, **Spring Boot**, and **PHP**, alongside **Bash scripting**
+- Focused on cloud infrastructure and automation
+- Interested in how systems, code, and people connect
+- Studying Software Engineering, building toward a career in Cloud and DevOps
+- Reach me at **lasinduaz@gmail.com**
 
----
+<br/>
 
-## 🚀 About Me
+## Connect With Me
 
-I'm a software engineering student with a growing focus on **cloud infrastructure, automation, and DevOps practices**. I enjoy understanding how systems, pipelines, and people come together to ship reliable software — and I'm always looking for the next tool to add to that picture.
+<p align="left"> <a href="https://www.linkedin.com/in/lasindusamarajeewa" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.instagram.com/lasindu.rpm/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://discord.com/users/830400960697466950" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> </a> <a href="mailto:lasinduaz@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p> <br/>
 
-- 🔧 Currently deepening my skills in **Jenkins**, **Kubernetes**, **Spring Boot**, and **PHP**, alongside **Bash scripting**
-- ☁️ Passionate about **cloud infrastructure and automation**
-- 🌱 Always exploring how systems, code, and people connect
-- 📫 Reach me at **lasinduaz@gmail.com**
+## Languages & Tools
 
----
+<table align="center"> <tr> <th>Programming Languages</th> <th>DevOps &amp; Cloud</th> <th>Operating Systems</th> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=java,php,js,bash,mysql,spring" alt="programming languages"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=jenkins,kubernetes,docker,githubactions,aws" alt="devops and cloud"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=linux,windows" alt="operating systems"/> </td> </tr> </table> <br/>
 
-## 🌐 Connect With Me
+## Commit Activity
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lasindusamarajeewa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/lasindu.rpm/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://discord.com/users/830400960697466950" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lasinduaz&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak Stats" width="48%"/> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=lasinduaz&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Commit Activity Graph" width="90%"/> </div> <div align="center"> <img src="https://raw.githubusercontent.com/lasinduaz/lasinduaz/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="90%"/> </div> <p align="center"> <sub>The snake is generated by a scheduled GitHub Action that regenerates the contribution graph. See setup note below.</sub> </p> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%"/>
 
----
+<sub>Thanks for stopping by. Always open to connecting with fellow builders.</sub>
 
-## 🧰 Languages & Tools
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Programming Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,js,bash,mysql,spring" alt="programming languages"/>
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-**DevOps & Cloud**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jenkins,kubernetes,docker,githubactions,aws" alt="devops and cloud"/>
-</p>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**Operating Systems**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows" alt="operating systems"/>
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-  <sub>Thanks for stopping by — always open to connecting with fellow builders. 🚀</sub>
 </div>
